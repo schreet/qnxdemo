@@ -1,0 +1,15 @@
+{
+  "name": "qnxdemo",
+  "version": "1.0.0",
+  "description": "sample API for questronix recruitment",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "crud",
+    "api"
+  ],
+  "author": "Dan Chester D. Francisco",
+  "license": "ISC"
+}
